@@ -1,5 +1,5 @@
 name = "publicsuffix"
-version = "0.0.1"
+version = "1.0.0"
 description = "Parse domain names into component parts using the Public Suffix List"
 licences = ["Apache-2.0"]
 repository = { type = "github", user = "cassiascheffer", repo = "publicsuffix" }
