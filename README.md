@@ -1,7 +1,7 @@
-# publicsuffix
+# publicsuffix_gleam
 
-[![Package Version](https://img.shields.io/hexpm/v/publicsuffix)](https://hex.pm/packages/publicsuffix)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/publicsuffix/)
+[![Package Version](https://img.shields.io/hexpm/v/publicsuffix_gleam)](https://hex.pm/packages/publicsuffix_gleam)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/publicsuffix_gleam/)
 
 A Gleam package for parsing domain names into their component parts using the [Public Suffix List](https://publicsuffix.org/).
 
@@ -9,16 +9,16 @@ Inspired by [publicsuffix-ruby](https://github.com/weppos/publicsuffix-ruby).
 
 ## Installation
 
-Add `publicsuffix` to your Gleam project:
+Add `publicsuffix_gleam` to your Gleam project:
 
 ```sh
-gleam add publicsuffix
+gleam add publicsuffix_gleam
 ```
 
 ## Usage
 
 ```gleam
-import publicsuffix
+import publicsuffix_gleam as publicsuffix
 
 pub fn main() {
   // Parse a simple domain
