@@ -1,3 +1,6 @@
+>[!IMPORTANT}
+>This package has been renamed to `psl`. See [https://github.com/cassiascheffer/psl]([url](https://github.com/cassiascheffer/psl))
+
 # publicsuffix_gleam
 
 [![Package Version](https://img.shields.io/hexpm/v/publicsuffix_gleam)](https://hex.pm/packages/publicsuffix_gleam)
