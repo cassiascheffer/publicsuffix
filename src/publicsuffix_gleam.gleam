@@ -4,9 +4,9 @@
 import gleam/option.{None, Some}
 import gleam/result
 import gleam/uri
-import publicsuffix/domain
-import publicsuffix/punycode
-import publicsuffix/suffix_list
+import publicsuffix_gleam/domain
+import publicsuffix_gleam/punycode
+import publicsuffix_gleam/suffix_list
 
 /// Re-export DomainParts for public API
 ///

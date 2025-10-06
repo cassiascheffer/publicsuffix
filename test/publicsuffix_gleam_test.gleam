@@ -1,6 +1,6 @@
 import gleeunit
 import gleeunit/should
-import publicsuffix
+import publicsuffix_gleam as publicsuffix
 
 pub fn main() -> Nil {
   gleeunit.main()
