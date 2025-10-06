@@ -1,4 +1,4 @@
->[!IMPORTANT}
+>[!IMPORTANT]
 >This package has been renamed to `psl`. See [https://github.com/cassiascheffer/psl]([url](https://github.com/cassiascheffer/psl))
 
 # publicsuffix_gleam
